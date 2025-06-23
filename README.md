@@ -15,7 +15,7 @@
 
 点击访问：<a href="https://hl312.pages.dev/">今日黑料</a>
 
-点击访问：<a href="https://hl284.pages.dev/">黑料社</a>
+点击访问：<a href="https://hl284.pages.dev/">黑料大事记</a>
 
 点击访问：<a href="https://hl242.pages.dev/">抖音黑料</a>
 
@@ -33,7 +33,7 @@
 
 点击访问：<a href="https://hl350.pages.dev/">今日黑料</a>
 
-点击访问：<a href="https://91chiguazhongxin.pages.dev/">91吃瓜</a>
+点击访问：<a href="https://91chiguazhongxin.pages.dev/">91吃瓜中心</a>
 
 点击访问：<a href="https://heiliaochiguada.pages.dev/">黑料今日</a>
 
@@ -62,4 +62,4 @@ Telegram频道传送门：汇集优质频道链接，涵盖黑料爆料、吃瓜
 社会影响：
 
 《黑料大事记》专注整理娱乐圈与网络红人爆料事件，涵盖时间线、人物背景与舆论发展，帮助用户快速了解每起黑料的真相，全方位追踪热议焦点。
-[Canonical link](）
+[Canonical link](https://github.com/heiliaowang598/heiliaowang67125）
